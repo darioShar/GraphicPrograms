@@ -1,0 +1,78 @@
+
+#define SUN_RADIUS		50.0f
+#define SUN_WEIGHT		1.9891e30f
+#define SUN_COLOR		Color::Yellow
+#define SUN_X			WIDTH/2
+#define SUN_Y			450.0f
+#define SUN_TEXTURE		"Textures\\Sun.jpg"
+
+#define MERCURY_RADIUS	5.0f
+#define MERCURY_WEIGHT	3.3022e23f
+#define MERCURY_COLOR	Color(165, 42, 42, 255)
+#define MERCURY_X		WIDTH/2
+#define MERCURY_Y		510.0f
+#define MERCURY_INITIAL_VELOCITY Vector2f(8.15e9f, 0.0f)
+#define MERCURY_TEXTURE		"Textures\\Mercury.jpg"
+
+
+#define VENUS_RADIUS	7.0f
+#define VENUS_WEIGHT	4.8685e24f
+#define VENUS_COLOR		Color(255, 127, 80, 255)
+#define VENUS_X			WIDTH/2
+#define VENUS_Y			531.0f
+#define VENUS_INITIAL_VELOCITY Vector2f(8.15e9f, 0.0f)
+#define VENUS_TEXTURE		"Textures\\Venus.jpg"
+
+
+#define EARTH_RADIUS	10.0f
+#define EARTH_WEIGHT	5.9736e24f
+#define EARTH_COLOR		Color::Blue
+#define EARTH_X			WIDTH/2
+#define EARTH_Y			562.0f
+#define EARTH_INITIAL_VELOCITY Vector2f(8.15e9f, 0.0f)
+#define EARTH_TEXTURE		"Textures\\Earth.jpg"
+
+
+#define MARS_RADIUS		9.0f
+#define MARS_WEIGHT		6.4185e23f
+#define MARS_COLOR		Color::Red
+#define MARS_X			WIDTH/2
+#define MARS_Y			595.0f
+#define MARS_INITIAL_VELOCITY Vector2f(8.15e9f, 0.0f)
+#define MARS_TEXTURE		"Textures\\Mars.jpg"
+
+
+#define JUPITER_RADIUS	30.0f
+#define JUPITER_WEIGHT	1.8986e27f
+#define JUPITER_COLOR	Color(255, 140, 0, 255)
+#define JUPITER_X		WIDTH/2
+#define JUPITER_Y		265.0f
+#define JUPITER_INITIAL_VELOCITY Vector2f(-8.15e9f, 0.0f)
+#define JUPITER_TEXTURE		"Textures\\Jupiter.jpg"
+
+
+#define SATURN_RADIUS	25.0f
+#define SATURN_WEIGHT	5.6846e23f
+#define SATURN_COLOR	Color(218, 165, 32, 255)
+#define SATURN_X		WIDTH/2
+#define SATURN_Y		185.0f
+#define SATURN_INITIAL_VELOCITY Vector2f(-9e9f, 0.0f)
+#define SATURN_TEXTURE		"Textures\\Saturn.jpg"
+
+
+#define URANUS_RADIUS	20.0f
+#define URANUS_WEIGHT	8.6810e25f
+#define URANUS_COLOR	Color(30, 144, 255, 255)
+#define URANUS_X		WIDTH/2
+#define URANUS_Y		115.0f
+#define URANUS_INITIAL_VELOCITY Vector2f(-9.5e9f, 0.0f)
+#define URANUS_TEXTURE		"Textures\\Uranus.jpg"
+
+
+#define NEPTUNE_RADIUS	17.0f
+#define NEPTUNE_WEIGHT	10.243e25f
+#define NEPTUNE_COLOR	Color(100, 149, 237, 255)
+#define NEPTUNE_X		WIDTH/2
+#define NEPTUNE_Y		40.0f
+#define NEPTUNE_INITIAL_VELOCITY Vector2f(-1e10f, 0.0f)
+#define NEPTUNE_TEXTURE		"Textures\\Neptune.jpg"
