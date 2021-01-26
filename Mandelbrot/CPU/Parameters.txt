@@ -1,0 +1,198 @@
+Parameters :
+view.xmin = -0.7499881607841847
+view.xmax = -0.7498665069054344
+view.ymin = -0.0130708626686409
+view.ymax = -0.0129492087898908
+
+Mouse Cursor : 0.0003166380121917 , 0.0001848463102120
+
+MOVE_FACTOR = 0.0000121653878750
+
+
+Parameters :
+view.xmin = -0.7499881607841847
+view.xmax = -0.7498665069054344
+view.ymin = -0.0130708626686409
+view.ymax = -0.0129492087898908
+
+Mouse Cursor : 0.0005856282552063 , 0.0000517028984688
+
+MOVE_FACTOR = 0.0000121653878750
+
+
+Parameters :
+view.xmin = -2.4888888888888889
+view.xmax = 1.0666666666666664
+view.ymin = -1.2000000000000000
+view.ymax = 0.8000000000000000
+
+Mouse Cursor : 2.2259259259259259 , 0.8203703703703704
+
+MOVE_FACTOR = 0.2000000000000000
+
+
+Parameters :
+view.xmin = -2.1333333333333333
+view.xmax = 1.4222222222222221
+view.ymin = -1.0000000000000000
+view.ymax = 1.0000000000000000
+
+Mouse Cursor : 2.0037037037037035 , 0.8407407407407408
+
+MOVE_FACTOR = 0.2000000000000000
+
+
+Parameters :
+view.xmin = -1.3940989185412780
+view.xmax = -1.3940989185389927
+view.ymin = -0.0083480221649117
+view.ymax = -0.0083480221636262
+
+Mouse Cursor : 0.0000000000024710 , 0.0000000000008785
+
+MOVE_FACTOR = 0.0000000000001286
+
+
+Parameters :
+view.xmin = -1.3940989185406556
+view.xmax = -1.3940989185396151
+view.ymin = -0.0083480221645615
+view.ymax = -0.0083480221639764
+
+Mouse Cursor : 0.0000000000008251 , 0.0000000000003730
+
+MOVE_FACTOR = 0.0000000000000585
+
+
+Parameters :
+view.xmin = -1.3940989185406556
+view.xmax = -1.3940989185396151
+view.ymin = -0.0083480221645615
+view.ymax = -0.0083480221639764
+
+Mouse Cursor : 0.0000000000004129 , 0.0000000000001788
+
+MOVE_FACTOR = 0.0000000000000585
+
+
+Parameters :
+view.xmin = -1.3948749619817020
+view.xmax = -1.3909978578268447
+view.ymin = -0.0087841493580525
+view.ymax = -0.0066040727551408
+
+Mouse Cursor : 0.0017568128201697 , 0.0014079661393805
+
+MOVE_FACTOR = 0.0002179703692241
+
+
+Parameters :
+view.xmin = -1.3948749619817020
+view.xmax = -1.3909978578268447
+view.ymin = -0.0087841493580525
+view.ymax = -0.0066040727551408
+
+Mouse Cursor : 0.0044889596542957 , 0.0013928267185270
+
+MOVE_FACTOR = 0.0002179703692241
+
+
+Parameters :
+view.xmin = -1.3925284517858130
+view.xmax = -1.3911709698507069
+view.ymin = -0.0085401785574878
+view.ymax = -0.0077768731399913
+
+Mouse Cursor : 0.0008388814145851 , 0.0004972086677859
+
+MOVE_FACTOR = 0.0000992127306437
+
+
+Parameters :
+view.xmin = -1.3925284517858130
+view.xmax = -1.3911709698507069
+view.ymin = -0.0085401785574878
+view.ymax = -0.0077768731399913
+
+Mouse Cursor : 0.0008388814145851 , 0.0004950883749595
+
+MOVE_FACTOR = 0.0000992127306437
+
+
+Parameters :
+view.xmin = -0.1626159465168595
+view.xmax = -0.1309984756283808
+view.ymin = 0.8364693788801116
+view.ymax = 0.8542542062548815
+
+Mouse Cursor : 0.0171590649301015 , 0.0013832643513710
+
+MOVE_FACTOR = 0.2000000000000000
+
+
+Parameters :
+view.xmin = -0.1626159
+view.xmax = -0.1309985
+view.ymin = 0.8364694
+view.ymax = 0.8542542
+
+Mouse Cursor : 0.0168626 , 0.0011198
+
+MOVE_FACTOR = 0.2000000
+
+
+Parameters :
+view.xmin = -0.1626159
+view.xmax = -0.1309985
+view.ymin = 0.8364694
+view.ymax = 0.8542542
+
+Mouse Cursor : 0.0184271 , 0.0028324
+
+MOVE_FACTOR = 0.2000000
+
+
+Parameters :
+view.xmin = -0.1626159
+view.xmax = -0.1309985
+view.ymin = 0.8364694
+view.ymax = 0.8542542
+
+Mouse Cursor : 0.0177684 , 0.0024701
+
+MOVE_FACTOR = 0.2000000
+
+
+Parameters :
+view.xmin = -0.1626159
+view.xmax = -0.1309985
+view.ymin = 0.8364694
+view.ymax = 0.8542542
+
+Mouse Cursor : 0.0174555 , 0.0019267
+
+MOVE_FACTOR = 0.2000000
+
+
+Parameters :
+view.xmin = -0.1626159
+view.xmax = -0.1309985
+view.ymin = 0.8364694
+view.ymax = 0.8542542
+
+Mouse Cursor : 0.0144419 , 0.0026019
+
+MOVE_FACTOR = 0.2000000
+
+
+Parameters :
+view.xmin = -0.1626159
+view.xmax = -0.1309985
+view.ymin = 0.8364694
+view.ymax = 0.8542542
+
+Mouse Cursor : 0.0195139 , 0.0042980
+
+MOVE_FACTOR = 0.2000000
+
+
